@@ -26,7 +26,7 @@ Recent IT graduate with a strong foundation in computer science and programming.
   * Managed the company's SEO campaign, resulting in a 20% increase in organic traffic
   * Worked on a project to develop a Web Based banking system 
   * Presented my research findings at a conference
-  * Developed and managing website www.updatedmail.co.ke
+    
 
 **Education**
 
@@ -38,12 +38,12 @@ Recent IT graduate with a strong foundation in computer science and programming.
 
 **Projects**
 
-* Developed a web application that uses machine learning to recommend products to users
+* Developed and managing website www.updatedmail.co.ke
 * Created a data visualization dashboard to track the company's website traffic
 * Development a Web Based banking system 
 
-**References**
+# References
 
 
-
+# Available 
 I am confident that my skills and experience would be a valuable asset to your company. I am eager to learn more about your open positions and discuss how I can contribute to your team. Thank you for your time and consideration.
