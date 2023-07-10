@@ -5,11 +5,11 @@ Nairobi, Ruiru
 0769645269
 jombogo090@gmail.com
 
-**Summary**
+# Summary
 
 Recent IT graduate with a strong foundation in computer science and programming. Proven ability to learn new technologies quickly and apply them to real-world problems. Seeking a challenging position in the IT industry where I can use my skills and knowledge to make a positive impact.
 
-**Skills**
+# Skills
 
 * Programming Languages: Python, React, Node.js
 * Algorithms: Data structures, sorting, searching, recursion
@@ -20,7 +20,7 @@ Recent IT graduate with a strong foundation in computer science and programming.
 * Cloud Computing: AWS, Azure, Google Cloud Platform
 * SEO: On-page optimization, keyword research, link building
 
-**Experience**
+# Experience
 
 * IT Intern, 
   * Managed the company's SEO campaign, resulting in a 20% increase in organic traffic
@@ -28,21 +28,18 @@ Recent IT graduate with a strong foundation in computer science and programming.
   * Presented my research findings at a conference
     
 
-**Education**
+# Education
 
-* Bachelor of Science in Information Technology, Zetech University
-
-**Awards and Honors**
+* Bachelor of Science in Information Technology, Zetech University 
 
 
 
-**Projects**
+# My Projects
 
 * Developed and managing website www.updatedmail.co.ke
 * Created a data visualization dashboard to track the company's website traffic
 * Development a Web Based banking system 
 
-# References
 
 
 # Available 
