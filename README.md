@@ -2,7 +2,6 @@
 
 **Omondi Ombogo John**
 Nairobi, Ruiru 
-Anytown, CA 1234
 0769645269
 jombogo090@gmail.com
 
@@ -23,14 +22,11 @@ Recent IT graduate with a strong foundation in computer science and programming.
 
 **Experience**
 
-* IT Intern, Acme Corporation, Anytown, CA (2022-2023)
-  * Developed a Python script to automate the process of generating reports
-  * Implemented a new React/Node.js application to improve the company's website
+* IT Intern, 
   * Managed the company's SEO campaign, resulting in a 20% increase in organic traffic
-
-* Research Assistant, University of California, Berkeley (2021-2022)
-  * Worked on a project to develop a new algorithm for image classification
+  * Worked on a project to develop a Web Based banking system 
   * Presented my research findings at a conference
+  * Developed and managing website www.updatedmail.co.ke
 
 **Education**
 
@@ -43,7 +39,6 @@ Recent IT graduate with a strong foundation in computer science and programming.
 **Projects**
 
 * Developed a web application that uses machine learning to recommend products to users
-* Built a chatbot that can answer customer questions about the company's products and services
 * Created a data visualization dashboard to track the company's website traffic
 * Development a Web Based banking system 
 
