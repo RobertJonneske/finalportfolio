@@ -1,6 +1,7 @@
+# My Portfolio 
 https://robertjonneske.github.io/finalportfolio/
 
-# My Portfolio
+# Details 
 Omondi Ombogo John Nairobi, Ruiru 0769645269 jombogo090@gmail.com
 
 # Summary
