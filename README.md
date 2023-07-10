@@ -13,16 +13,21 @@ Databases: MySQL, PostgreSQL
 Operating Systems: Linux, Windows, macOS
 Cloud Computing: AWS, Azure, Google Cloud Platform
 SEO: On-page optimization, keyword research, link building
-Experience
+
+# Experience
 IT Intern,
 Managed the company's SEO campaign, resulting in a 20% increase in organic traffic
 Worked on a project to develop a Web Based banking system
 Presented my research findings at a conference
-Education
+
+# Education
+
 Bachelor of Science in Information Technology, Zetech University
-My Projects
+
+# My Projects
 Developed and managing website www.updatedmail.co.ke
 Created a data visualization dashboard to track the company's website traffic
 Development a Web Based banking system
-Available
+
+# Available
 I am confident that my skills and experience would be a valuable asset to your company. I am eager to learn more about your open positions and discuss how I can contribute to your team. Thank you for your time and consideration.
